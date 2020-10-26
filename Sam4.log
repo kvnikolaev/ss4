@@ -1,0 +1,294 @@
+        -------- START OF LOG --------
+
+23:05:54 LOG:   Core version: $Version: Sam4_dev; SeriousSam4-Windows-Final; 560203 2020-10-06 18:41:07 @builder28; Windows-x64-Static-Final-Default$
+23:05:54 LOG:   Command:  $
+23:05:54 LOG:   Initializing timer.
+23:05:54 LOG:   QueryPerformanceFrequency: 3728046
+23:05:54 LOG:   Timestamp: 2020/10/26 23:05:54
+23:05:54 LOG:   Binary name: Sam4.exe
+23:05:54 LOG:   Binary soft path: Bin/x64/
+23:05:54 LOG:   Binary hard path: C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\
+23:05:54 LOG:   Application directory: C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\
+23:05:54 LOG:   
+23:05:54 LOG:   * OS...
+23:05:54 LOG:   Name: Windows 7
+23:05:54 LOG:   Kernel: WinNT (64-bit)
+23:05:54 LOG:   Version: 6.1, build 7601
+23:05:54 LOG:   Misc: Service Pack 1
+23:05:54 LOG:   
+23:05:54 LOG:   * CPU...
+23:05:54 LOG:   Vendor: AuthenticAMD
+23:05:54 LOG:   Name: AMD FX(tm)-4300 Quad-Core Processor
+23:05:54 LOG:   Type: 0, Family: 15, Model: 2, Stepping: 0
+23:05:54 LOG:   Clock: 3.82 GHz
+23:05:54 LOG:   Cores: 4/4
+23:05:54 LOG:   Invariant TSC: Yes
+23:05:54 LOG:   
+23:05:54 LOG:   
+23:05:54 LOG:   * Memory...
+23:05:54 LOG:   Total physical memory: 8156 MB
+23:05:54 LOG:   Free physical memory: 4624 MB
+23:05:54 LOG:   
+23:05:54 LOG:   Available network adapters:
+23:05:54 LOG:    0: {87778E46-C76F-43D8-8D08-C0E6E3DD7D8C}, Realtek PCIe GBE Family Controller, 6, 00000013
+23:05:54 LOG:   Created thread 00001650(ResourceGeneration).
+23:05:54 LOG:   Created thread 00000850(TexsMipUnloading).
+23:05:54 LOG:   Created thread 000010A4(ResourceStreaming).
+23:05:54 LOG:   Created thread 000010C8(ResourceFreeing).
+23:05:54 LOG:   Cached 2 new net descriptors for hinted classes (2 total).
+23:05:54 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\GameEnv_Steam.dll".
+23:05:54 LOG:   Cached 1 new net descriptors for hinted classes (3 total).
+23:05:54 LOG:   Loaded "steam_api64.dll".
+23:05:54 LOG:   Steam config header not used.
+23:05:54 INF:   Encoded user ID = 53a120c6:1e59135a
+23:05:54 LOG:   Created thread 00001574(ResourceLoader).
+23:05:54 LOG:   Loading cvars from "Sources/SeriousSam4/Launcher/defaults.cfg".
+23:05:54 LOG:   "$C:/Program Files (x86)/Steam/userdata/106352895/257420/local/SeriousSam4.ini" does not exist, skipping cvar loading.
+23:05:54 INF:   Executing user startup config from UserCfg.lua
+23:05:54 LOG:   Processing file UserCfg.lua
+23:05:54 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\SeriousSam4_Project.dll".
+23:05:54 LOG:     Content/SeriousSam4/00_All.gro: 34774 files, signature: OFFICIAL
+23:05:54 LOG:     Content/SeriousSam4/50_560203_00_All.gro: 678 files, signature: OFFICIAL
+23:05:55 LOG:   Zip file system updated in 0.74 seconds.
+23:05:55 LOG:   1 dependency databases loaded and merged in 0.35 seconds.
+23:05:55 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\CodecAudio_Vorbis.dll".
+23:05:55 LOG:   Cached 0 new net descriptors for hinted classes (3 total).
+23:05:55 LOG:   Module 'Bin/CodecAudio_Vorbis.module' loaded in '0.00' seconds.
+23:05:55 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\CodecVideo_Null.dll".
+23:05:55 LOG:   Cached 0 new net descriptors for hinted classes (3 total).
+23:05:55 LOG:   Module 'Bin/CodecVideo_Null.module' loaded in '0.00' seconds.
+23:05:55 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\Input.dll".
+23:05:55 LOG:   Cached 0 new net descriptors for hinted classes (3 total).
+23:05:55 LOG:   Loaded "xinput1_3.dll".
+23:05:55 LOG:   Applying config for gamepad GUID 78696e70757400000000000000000000 to Gamepad0
+23:05:55 LOG:   Applying config for gamepad GUID 78696e70757400000000000000000000 to Gamepad1
+23:05:55 LOG:   Applying config for gamepad GUID 78696e70757400000000000000000000 to Gamepad2
+23:05:55 LOG:   Applying config for gamepad GUID 78696e70757400000000000000000000 to Gamepad3
+23:05:56 LOG:   Module 'Bin/Input.module' loaded in '0.37' seconds.
+23:05:56 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\ProcRender.dll".
+23:05:56 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\Shaders.dll".
+23:05:56 LOG:   Cached 0 new net descriptors for hinted classes (3 total).
+23:05:56 LOG:   Module 'Bin/Shaders.module' loaded in '0.00' seconds.
+23:05:56 LOG:   Cached 0 new net descriptors for hinted classes (3 total).
+23:05:56 LOG:   Module 'Bin/ProcRender.module' loaded in '0.01' seconds.
+23:05:56 LOG:   Module 'Bin/Shaders.module' loaded in '0.00' seconds.
+23:05:56 LOG:   Cached 519 new net descriptors for hinted classes (522 total).
+23:05:56 LOG:   Enumerating available gametitles...
+23:05:56 LOG:     Content/Empty.gtitle
+23:05:56 LOG:     Content/SeriousSam4.gtitle
+23:05:56 LOG:   Locale: enu
+23:05:56 LOG:   Processing file Content/SeriousSam4/Config/autoexec.cfg
+23:05:56 LOG:   Module 'Bin/SeriousSam4_Project.module' loaded in '1.71' seconds.
+23:05:56 LOG:   Trying to set display mode 1360x768(fullscreen)...
+23:05:56 INF:   
+23:05:56 INF:   * Desktop settings...
+23:05:56 INF:   Color depth: 32-bit
+23:05:56 INF:   Desktop resolution: 1360 x 768
+23:05:56 INF:   Virtual screen: 1360 x 768
+23:05:56 INF:   Monitors attached: 1
+23:05:56 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\GfxD3D11.dll".
+23:05:56 LOG:   Cached 0 new net descriptors for hinted classes (522 total).
+23:05:56 LOG:     Content/SeriousSam4/00_All.gro: 34774 files, signature: OFFICIAL
+23:05:56 LOG:     Content/SeriousSam4/50_560203_00_All.gro: 678 files, signature: OFFICIAL
+23:05:58 LOG:     Content/CachedShaders_VLK.gro: 44860 files, signature: OFFICIAL
+23:05:59 LOG:     Content/CachedShaders_D3D11.gro: 44868 files, signature: OFFICIAL
+23:05:59 LOG:     Content/CachedShaders_D3D12.gro: 44869 files, signature: OFFICIAL
+23:06:02 LOG:   Zip file system updated in 5.46 seconds.
+23:06:02 LOG:   Loaded "D3DCompiler_47.dll".
+23:06:02 LOG:   Loaded "D3D11.dll".
+23:06:02 LOG:   Loaded "DXGI.DLL".
+23:06:02 LOG:   [D3D11] Using DXGIFactory1 interface.
+23:06:02 LOG:   GPU #1: Radeon RX 570 Series from ATI
+23:06:02 INF:   [D3D11] Detected devices:
+23:06:02 INF:     #1: (1002; 67DF:4C21043.00EF) Radeon RX 570 Series (4073, 0/3822 MB) 
+23:06:02 INF:   Using device #1...
+23:06:02 LOG:   Loaded "amd_ags_x64".
+23:06:03 INF:   
+23:06:03 INF:   Direct3D 11:
+23:06:03 INF:     Deferred contexts: emulated by API
+23:06:03 INF:     Concurrent resource creation: supported
+23:06:03 INF:   
+23:06:03 INF:   Resolution: 1360 x 768
+23:06:03 INF:   Driver: Direct3D 11 (11.0 features)
+23:06:03 INF:   Vendor: ATI (0x1002)
+23:06:03 INF:   Renderer: Radeon RX 570 Series (0x67DF)
+23:06:03 INF:   Version: 0.0.0.31892
+23:06:03 INF:   Video memory size: 4073 MB
+23:06:03 INF:   Driver version: 200901
+23:06:03 INF:   Active GPU(s): 1
+23:06:03 INF:   Memory used for texture streaming: 1018.0 MB
+23:06:03 LOG:   Processing file Content/SeriousSam4/Config/CheckDriver.lua
+23:06:03 INF:   Driver version: 200901 (required: 1100)
+23:06:03 LOG:   Processing file Content/SeriousSam4/Config/SystemCompatibility.lua
+23:06:03 INF:   CPU efficiency: 3626.15 MHz * 4 usable cores = 9915
+23:06:03 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\SfxXAD28.dll".
+23:06:03 LOG:   Cached 0 new net descriptors for hinted classes (522 total).
+23:06:03 ERR:   SfxAPI error: Failed to load dynamic module "XAudio2_9.dll".
+23:06:03 ERR:   Error: �� ������ ��������� ������.
+
+23:06:03 LOG:   Loaded "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\SfxOAL.dll".
+23:06:03 ERR:   SfxAPI error: Failed to load dynamic module "OpenAL32.dll".
+23:06:03 ERR:   Error: �� ������ ��������� ������.
+
+23:06:03 LOG:   Minidump written to: C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\Sam4_1.dmp
+23:06:03 DBG:   
+23:06:03 DBG:   //=====================================================
+23:06:03 DBG:   Report generated at: 10/26/20 23:06:03
+23:06:03 DBG:   Version: $Version: Sam4_dev; SeriousSam4-Windows-Final; 560203 2020-10-06 18:41:07 @builder28; Windows-x64-Static-Final-Default$
+23:06:03 DBG:   Build type: Windows-x64-Static-Final-Default
+23:06:03 DBG:   Dump type: Crash
+23:06:03 DBG:   Exception code: C0000005 ACCESS_VIOLATION
+23:06:03 DBG:   Fault address:
+23:06:03 DBG:   00000001413A2ED0 0001:00000000013A1ED0 "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe"
+23:06:03 DBG:   
+23:06:03 DBG:   Dumping registers:
+23:06:03 DBG:   RAX:0000000142073470
+23:06:03 DBG:   RBX:0000000000000000
+23:06:03 DBG:   RCX:0000000000000000
+23:06:03 DBG:   RDX:0000000000000000
+23:06:03 DBG:   RSP:000000000012E910
+23:06:03 DBG:   RBP:0000000000000000
+23:06:03 DBG:   
+23:06:03 DBG:   RSI:000000000852DAA0
+23:06:03 DBG:   RDI:000000000852DAA0
+23:06:03 DBG:   R08:0000000000000010
+23:06:03 DBG:   R09:00000000068DB8E0
+23:06:03 DBG:   R10:0000000000000001
+23:06:03 DBG:   R11:000000000004D830
+23:06:03 DBG:   R12:0000000141545615
+23:06:03 DBG:   R13:0000000004174550
+23:06:03 DBG:   
+23:06:03 DBG:   R14:0000000000000000
+23:06:03 DBG:   R15:0000000000000001
+23:06:03 DBG:   
+23:06:03 DBG:    XMM00 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM01 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM02 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM03 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM04 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM05 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM06 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM07 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM08 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM09 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM10 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM11 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM12 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM13 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM14 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:    XMM15 (4x32bit): 00000000 (              0) 00000000 (              0) 00000000 (              0) 00000000 (              0) 
+23:06:03 DBG:   
+23:06:03 DBG:    XMM00 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM01 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM02 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM03 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM04 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM05 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM06 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM07 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM08 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM09 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM10 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM11 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM12 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM13 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM14 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:    XMM15 (2x64bit): 0000000000000000 (              0) 0000000000000000 (              0) 
+23:06:03 DBG:   
+23:06:03 DBG:   RIP:00000001413A2ED0
+23:06:03 DBG:   Flags:00010246
+23:06:03 DBG:   
+23:06:03 DBG:   Dumping stack back trace:
+23:06:03 DBG:   00000001413A2ED0 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:00000000013A1ED0
+23:06:03 DBG:   00000001413A30D4 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:00000000013A20D4
+23:06:03 DBG:   0000000140B56447 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:0000000000B55447
+23:06:03 DBG:   000000014003C725 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:000000000003B725
+23:06:03 DBG:   000000014003C1F6 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:000000000003B1F6
+23:06:03 DBG:   0000000140039E2D 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:0000000000038E2D
+23:06:03 DBG:   0000000140B40400 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:0000000000B3F400
+23:06:03 DBG:   00000001410C4BA0 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:00000000010C3BA0
+23:06:03 DBG:   00000001410C517B 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:00000000010C417B
+23:06:03 DBG:   00000001413D614E 00000001 $adr: "$C:/Program Files (x86)/Steam/steamapps/common/Serious Sam 4/Bin/x64/Sam4.exe" 0001:00000000013D514E
+23:06:03 DBG:   000000007706652D 00000001 $adr: "$C:/Windows/system32/kernel32.dll" 0001:000000000001552D
+23:06:03 DBG:   000000007719C521 00000001 $adr: "$C:/Windows/SYSTEM32/ntdll.dll" 0001:000000000002B521
+23:06:03 DBG:   
+23:06:03 DBG:   Last view placement: #CameraPlacement(0.00, 0.00, -1.00, 0.00, 0.00, 0.00, 1.0, 3437.75)
+23:06:03 DBG:   
+23:06:03 DBG:   //=====================================================
+23:06:03 DBG:   
+23:06:03 DBG:   
+23:06:03 DBG:   2020/10/26 23:06:03: Crashed! (used process memory: 1516 MB, free system memory: 4128 MB)
+23:06:03 LOG:   
+23:06:03 LOG:   Loaded modules:
+23:06:03 LOG:   C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\Sam4.exe
+23:06:03 LOG:   C:\Windows\SYSTEM32\ntdll.dll
+23:06:03 LOG:   C:\Windows\system32\kernel32.dll
+23:06:03 LOG:   C:\Windows\system32\KERNELBASE.dll
+23:06:03 LOG:   C:\Windows\system32\WINMM.dll
+23:06:03 LOG:   C:\Windows\system32\msvcrt.dll
+23:06:03 LOG:   C:\Windows\system32\USER32.dll
+23:06:03 LOG:   C:\Windows\system32\GDI32.dll
+23:06:03 LOG:   C:\Windows\system32\LPK.dll
+23:06:03 LOG:   C:\Windows\system32\USP10.dll
+23:06:03 LOG:   C:\Windows\system32\ADVAPI32.dll
+23:06:03 LOG:   C:\Windows\SYSTEM32\sechost.dll
+23:06:03 LOG:   C:\Windows\system32\RPCRT4.dll
+23:06:03 LOG:   C:\Windows\system32\SHELL32.dll
+23:06:03 LOG:   C:\Windows\system32\SHLWAPI.dll
+23:06:03 LOG:   C:\Windows\system32\WSOCK32.dll
+23:06:03 LOG:   C:\Windows\system32\WS2_32.dll
+23:06:03 LOG:   C:\Windows\system32\NSI.dll
+23:06:03 LOG:   C:\Windows\system32\IPHLPAPI.DLL
+23:06:03 LOG:   C:\Windows\system32\WINNSI.DLL
+23:06:03 LOG:   C:\Windows\system32\dbghelp.dll
+23:06:03 LOG:   C:\Windows\system32\SETUPAPI.dll
+23:06:03 LOG:   C:\Windows\system32\CFGMGR32.dll
+23:06:03 LOG:   C:\Windows\system32\OLEAUT32.dll
+23:06:03 LOG:   C:\Windows\system32\ole32.dll
+23:06:03 LOG:   C:\Windows\system32\DEVOBJ.dll
+23:06:03 LOG:   C:\Windows\system32\bcrypt.dll
+23:06:03 LOG:   C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\Compressonator_MT_DLL.dll
+23:06:03 LOG:   C:\Windows\system32\MSIMG32.dll
+23:06:03 LOG:   C:\Windows\system32\IMM32.DLL
+23:06:03 LOG:   C:\Windows\system32\MSCTF.dll
+23:06:03 LOG:   C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+23:06:03 LOG:   C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll
+23:06:03 LOG:   C:\Windows\system32\PSAPI.DLL
+23:06:03 LOG:   C:\Windows\system32\dhcpcsvc.DLL
+23:06:03 LOG:   C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\steam_api64.dll
+23:06:03 LOG:   C:\Program Files (x86)\Steam\steamclient64.dll
+23:06:03 LOG:   C:\Windows\system32\CRYPT32.dll
+23:06:03 LOG:   C:\Windows\system32\MSASN1.dll
+23:06:03 LOG:   C:\Windows\system32\imagehlp.dll
+23:06:03 LOG:   C:\Windows\system32\VERSION.dll
+23:06:03 LOG:   C:\Program Files (x86)\Steam\tier0_s64.dll
+23:06:03 LOG:   C:\Program Files (x86)\Steam\vstdlib_s64.dll
+23:06:03 LOG:   C:\Windows\system32\MSWSOCK.dll
+23:06:03 LOG:   C:\Windows\system32\Secur32.dll
+23:06:03 LOG:   C:\Windows\system32\SSPICLI.DLL
+23:06:03 LOG:   C:\Windows\system32\cryptbase.dll
+23:06:03 LOG:   C:\Windows\System32\wshtcpip.dll
+23:06:03 LOG:   C:\Windows\system32\xinput1_3.dll
+23:06:03 LOG:   C:\Windows\system32\WINTRUST.dll
+23:06:03 LOG:   C:\Windows\system32\uxtheme.dll
+23:06:03 LOG:   C:\Windows\system32\CLBCatQ.DLL
+23:06:03 LOG:   C:\Windows\system32\CRYPTSP.dll
+23:06:03 LOG:   C:\Windows\system32\rsaenh.dll
+23:06:03 LOG:   C:\Windows\system32\RpcRtRemote.dll
+23:06:03 LOG:   C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\D3DCompiler_47.dll
+23:06:03 LOG:   C:\Windows\system32\D3D11.dll
+23:06:03 LOG:   C:\Windows\system32\dxgi.dll
+23:06:03 LOG:   C:\Windows\system32\dwmapi.dll
+23:06:03 LOG:   C:\Windows\system32\aticfx64.dll
+23:06:03 LOG:   C:\Windows\system32\atiuxp64.dll
+23:06:03 LOG:   C:\Windows\system32\atidxx64.dll
+23:06:03 LOG:   C:\Windows\System32\MMDevApi.dll
+23:06:03 LOG:   C:\Windows\System32\PROPSYS.dll
+23:06:03 LOG:   C:\Windows\system32\AUDIOSES.DLL
+23:06:03 LOG:   C:\Windows\system32\wdmaud.drv
+23:06:03 LOG:   C:\Windows\system32\ksuser.dll
+23:06:03 LOG:   C:\Windows\system32\AVRT.dll
+23:06:03 LOG:   C:\Windows\system32\msacm32.drv
+23:06:03 LOG:   C:\Windows\system32\MSACM32.dll
+23:06:03 LOG:   C:\Windows\system32\midimap.dll
+23:06:03 ERR:   sysStartProcess("C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 4\Bin\x64\BugReporter_Win32.exe") - 'No such file or directory'
